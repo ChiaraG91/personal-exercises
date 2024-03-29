@@ -1,0 +1,16 @@
+Scrivi un programma che gestisca una raccolta di oggetti e garantisca che non ci siano duplicati all'interno della collezione,
+utilizzando la struttura dati HashSet.
+Il tuo compito è:
+Creare una classe di oggetti (ad esempio, oggetti di tipo Prodotto) con alcuni attributi che li identifichino (ad esempio, id, nome, prezzo, ecc.).
+Scrivere un metodo che accetti una lista di questi oggetti e restituisca una nuova lista contenente solo oggetti unici.
+Utilizzare un HashSet per garantire l'unicità degli oggetti all'interno della lista.
+Restituire una nuova lista contenente solo oggetti unici.
+Costruttore, getter e setter degli attributi
+Implementa hashCode() e equals() per garantire l'unicità degli oggetti
+Implementa qui la logica per rimuovere gli oggetti duplicati utilizzando HashSet
+Restituisce la nuova lista con oggetti unici
+Ricorda di considerare:
+Implementare correttamente i metodi hashCode() e equals() nella classe Prodotto per garantire l'unicità degli oggetti all'interno di HashSet.
+Utilizzare HashSet per gestire gli oggetti unici all'interno della lista.
+Restituire una nuova lista contenente solo gli oggetti unici.
+Gestire correttamente casi in cui la lista di oggetti è nulla o vuota.

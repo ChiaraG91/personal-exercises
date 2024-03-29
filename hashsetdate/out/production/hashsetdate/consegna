@@ -1,0 +1,14 @@
+Obiettivo: Implementare un gestore di appuntamenti che utilizza HashSet e Date in Java.
+Descrizione:
+1.	Inizializzazione: Crea un HashSet di oggetti Date per memorizzare gli appuntamenti.
+2.	Aggiunta di appuntamenti: Aggiungi diverse date all'insieme degli appuntamenti per simulare date e orari di incontri.
+3.	Visualizzazione degli appuntamenti: Stampare l'insieme degli appuntamenti per verificarne la correttezza.
+4.	Controllo di un nuovo appuntamento: Verifica se una nuova data fornita è già presente nell'insieme degli appuntamenti.
+5.	Rimozione di un appuntamento: Elimina uno degli appuntamenti dall'insieme.
+6.	Stampa dell'insieme aggiornato: Visualizza l'insieme aggiornato di appuntamenti dopo la rimozione.
+7.	Verifica dell'insieme vuoto: Controlla se l'insieme degli appuntamenti è vuoto.
+Risorse:
+•	HashSet per memorizzare le date degli appuntamenti.
+•	Date per rappresentare le singole date e orari.
+Con questo esercizio, si intende simulare un sistema di gestione di appuntamenti dove le date devono essere univoche e non duplicate.
+Utilizza le funzionalità di HashSet per garantire che non ci siano date duplicate all'interno dell'insieme.

@@ -1,0 +1,15 @@
+Scrivi un metodo che accetti come argomento un array di interi e restituisca un nuovo array che contenga solo valori unici dall'array di input,
+utilizzando la struttura dati HashSet.
+Il tuo compito è:
+Scrivere un metodo che prenda come input un array di interi e restituisca un nuovo array contenente solo valori unici dall'array di input.
+Utilizzare un HashSet per rimuovere i duplicati. Aggiungi gli elementi dell'array di input all'HashSet per ottenere solo valori unici.
+Creare un nuovo array che contenga gli elementi unici presenti nell'HashSet e restituirlo come risultato del metodo.
+Esempio:
+// Implementa qui la logica per rimuovere i duplicati utilizzando HashSet
+// Restituisce il nuovo array senza duplicati
+Ricorda di considerare i seguenti punti:
+La sequenza degli elementi nell'array risultante non è rilevante.
+Utilizza HashSet per rimuovere i duplicati e creare un nuovo array contenente solo valori unici.
+Verifica la gestione degli array vuoti o nulli, gestendo tali casi opportunamente nel tuo codice.
+La grandezza del nuovo array può essere diversa dall'array originale, poiché contiene solo valori unici.
+Sii attento a gestire correttamente la creazione del nuovo array e l'aggiunta degli elementi unici ottenuti dall'HashSet.

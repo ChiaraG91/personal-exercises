@@ -1,0 +1,15 @@
+Creare un'applicazione Java che simuli un registro di studenti. Ogni studente è rappresentato da un numero di matricola univoco (ID),
+il suo nome e il suo voto. L'applicazione deve essere in grado di aggiungere, visualizzare,
+modificare e rimuovere gli studenti dal registro, utilizzando diverse strutture dati: ArrayList, LinkedList e HashMap.
+Requisiti:
+1.	Definire una classe Studente con i seguenti attributi: id (int), nome (String) e voto (double).
+2.	Creare un main dove dopo ogni stampa dell’azione viene invocato il metodo corrispondente alle seguenti opzioni:
+o	Aggiungere uno studente al registro
+o	Visualizzare tutti gli studenti nel registro
+o	Modificare il voto di uno studente (tramite ID)
+o	Rimuovere uno studente dal registro (tramite ID)
+o	Uscire dal programma
+3.	Utilizzare un'implementazione di ArrayList per gestire il registro degli studenti.
+4.	Utilizzare un'implementazione di LinkedList per la funzionalità di rimozione degli studenti.
+5.	Utilizzare un'implementazione di HashMap per la funzionalità di ricerca veloce tramite ID.
+6.	Gestire le eccezioni per casi come inserimento di ID duplicati, ricerca di ID non esistenti, ecc.
